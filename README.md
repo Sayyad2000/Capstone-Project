@@ -96,6 +96,7 @@ The application follows the **Model-View-Controller (MVC)** pattern for clean se
 * **HTML5, CSS3, JavaScript** for frontend
 
 ---
+## **Output**
 
 ![Face Matching Output](Output.png)
 
