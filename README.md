@@ -97,6 +97,9 @@ The application follows the **Model-View-Controller (MVC)** pattern for clean se
 
 ---
 
+![Face Matching Output](Output.png)
+
+
 ## 📋 Contribution
 
 Contributions are welcome! To contribute:
