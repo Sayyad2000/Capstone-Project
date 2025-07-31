@@ -1,0 +1,121 @@
+﻿
+@{
+    ViewBag.Title = "Point of Sale";
+}
+<script src="~/assets/alertifyjs/alertify.min.js "></script>
+<link rel="stylesheet" href="~/assets/alertifyjs/css/alertify.min.css" />
+<link rel="stylesheet" href="/assets/alertifyjs/css/themes/default.min.css" />
+<script src="~/assets/js/angular.min.js"></script>
+<script src="~/assets/js/angular-sanitize.min.js"></script>
+<script>
+
+    var app = angular.module("myApp", []);
+
+
+    app.controller("customersCtrl", function ($scope, $http, $location) {
+            var BaseUrl = "https://localhost:44393/";
+            $scope.BaseUrl= "https://localhost:44393/";
+
+            var HttpSetting = { "Accept": "application/json" };
+            $http.defaults.headers.post["Content-Type"] = "application/json";
+            $scope.Index = -1;
+            $scope.EditMode = false;
+            $scope.Keyword = "";
+
+            $scope.Product = {productName:"name",brand:"brand",price:123};
+            $scope.SelectedProducts = [];
+            $scope.Users = [];
+            $scope.ProductImage = null;
+
+
+            $scope.Load = function () {
+
+                $http.get(BaseUrl + "api/users")
+                    .then(function (response) {
+                        console.log(response.data);
+                        $scope.Users = response.data;
+
+
+                    }, function (response) {
+                        alert(angular.toJson(response));
+                    });
+
+
+            }
+            $scope.Load();
+
+            $scope.Delete = function (User) {
+
+                if (!confirm("Are you sure want to delete ?")) {
+
+                    return;
+                }
+
+
+                $http.get(BaseUrl + "api/users/delete/" + User.uid).then(function (response) {
+                    $scope.Users.splice($scope.Users.indexOf(User), 1);
+                    //$scope.Load();
+                    alertify.error('Customer Deleted');
+                });
+
+            }
+
+
+
+    });
+</script>
+
+<div ng-app="myApp" onload="Load()" ng-controller="customersCtrl">
+    <div class="container d-xl-flex align-items-xl-center" style="margin-top: 20px;">
+        <h4 class="flex-fill">Customer</h4>
+        <div class="input-group" style="width: 495px;">
+            <input type="text" class="form-control" ng-model="Keyword" placeholder="Search Customer Name / Mobile / Email" />
+        </div>
+    </div>
+    <hr />
+
+    <div class="container" style="margin-top: 20px;">
+        <div class="card">
+            <div class="card-header">Customers</div>
+            <div class="table-responsive">
+                <table class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th style="width: 50px;">Sn.</th>
+
+
+                            <th>Name</th>
+                            <th>Mobile</th>
+                            <th style="width: 259px;">Email</th>
+                            <th class="text-center" style="width: 150px;">Action</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr ng-dblclick="SetToUpdate($index)" ng-repeat="User in Users | filter : Keyword"
+                            ng-class="SelectedProducts.includes(Product)?'table-success':''">
+                            <td>{{$index+1}}</td>
+
+                            <td>{{User.userName}}</td>
+                            <td>{{User.mobile}}</td>
+                            <td>{{User.email}}</td>
+                            <td class="text-center">
+                                <div class="btn-group btn-group-sm" role="group">
+
+                                    <button ng-hide="User.userType=='Admin'" class="btn btn-danger" ng-click="Delete(User)" type="button">Delete</button>
+                                </div>
+                            </td>
+                        </tr>
+                    </tbody>
+                    <tfoot>
+                        <tr>
+                            <td colspan="10">Summary 1</td>
+                        </tr>
+                    </tfoot>
+                </table>
+            </div>
+        </div>
+    </div>
+
+
+
+</div>

@@ -1,0 +1,182 @@
+﻿@using Microsoft.AspNetCore.Http;
+@{
+    ViewBag.Title = "Point of Sale";
+
+
+}
+<script src="~/assets/alertifyjs/alertify.min.js "></script>
+<link rel="stylesheet" href="~/assets/alertifyjs/css/alertify.min.css" />
+<link rel="stylesheet" href="/assets/alertifyjs/css/themes/default.min.css" />
+
+<script src="~/assets/js/angular.min.js"></script>
+<script src="~/assets/js/angular-sanitize.min.js"></script>
+<script>
+
+    var app = angular.module("myApp", []);
+
+
+    app.controller("customersCtrl", function ($scope, $http, $location) {
+         var BaseUrl = "https://localhost:44393/";
+        $scope.Products = [];
+        $scope.Keyword = null;
+        $scope.SelectedProducts = [];
+        $scope.ShowPanel = "List";
+        $scope.Order = {};
+        $scope.ToggleShowPanel = function (Panel) {
+            $scope.ShowPanel = Panel;
+        }
+
+        $scope.Load = function() {
+                    $scope.SelectedProducts = angular.fromJson(localStorage.getItem('SelectedProducts'));
+
+             for (var n = 0; n < $scope.SelectedProducts.length; n++) {
+                 $scope.SelectedProducts[n].Quantity = 1;
+             $scope.SelectedProducts[n].TotalPrice = $scope.SelectedProducts[n].Price;
+             }
+
+        }
+        $scope.Load();
+        console.log(angular.fromJson(localStorage.getItem('SelectedProducts')));
+        $scope.DeleteItem = function (Index) {
+            if (!confirm("Confirm Delete")) return;
+            $scope.SelectedProducts.splice(Index, 1);
+            $scope.UpdateBillAmount();
+        }
+        $scope.DecreaseQuantity = function (SelectedProduct) {
+
+            if (SelectedProduct.Quantity > 1) {
+                SelectedProduct.Quantity--;
+                $scope.UpdateBillAmount();
+                if ($scope.ItemCount > $scope.SelectedProducts.length) $scope.ItemCount--;
+            }
+        }
+
+        $scope.IncreaseQuantity = function (SelectedProduct) {
+           SelectedProduct.Quantity++;
+
+            if (SelectedProduct.Quantity < SelectedProduct.Quantity) {
+
+                $scope.UpdateBillAmount();
+                $scope.ItemCount++;
+            }
+             $scope.UpdateBillAmount();
+        }
+        $scope.UpdateBillAmount = function () {
+
+            $scope.BillAmount = 0;
+            for (var n = 0; n < $scope.SelectedProducts.length; n++) {
+
+                $scope.SelectedProducts[n].totalPrice = ($scope.SelectedProducts[n].Quantity * $scope.SelectedProducts[n].price)
+                $scope.BillAmount = $scope.BillAmount +$scope.SelectedProducts[n].totalPrice
+            }
+        }
+        $scope.UpdateBillAmount();
+        $scope.SelectProduct = function (Product) {
+
+            var Index = $scope.Products.indexOf(Product);
+            //alert(Index);
+            if (!$scope.SelectedProducts.includes(Product)) {
+                $scope.SelectedProducts.push(Product);
+                $scope.UpdateBillAmount();
+            }
+            else {
+                $scope.SelectedProducts.splice(Index, 1);
+                $scope.UpdateBillAmount();
+            }
+            console.log($scope.SelectedProducts);
+        }
+
+        $scope.MakeSale = function () {
+
+
+                $scope.Order.BillAmount = $scope.BillAmount;
+                $scope.Order.Items = $scope.SelectedProducts;
+            $scope.Order.Uid =@Context.Session.GetString("UID");
+
+                console.log($scope.Order);//
+                //alert(angular.toJson($scope.Order)); //return;
+                var data = angular.toJson($scope.Order);
+                console.log(data);
+                var data = JSON.stringify($scope.Order); //alert(data);
+                $http.post(BaseUrl+ "api/orders/create", data).then(function (response) {
+
+                if (response.data.Status == 'Success') {
+                    alertify.alert("Order Placed Successfully... ", function () {
+                        location.assign("/orders/PurchaseRecords");
+                    });
+
+                }
+
+                });
+                return;
+
+
+            }
+
+    });
+</script>
+
+<div ng-app="myApp" onload="Load()" ng-controller="customersCtrl">
+    <div class="container" style="margin-top: 20px;" ng-show="ShowPanel=='List'">
+        <div class="card">
+            <div class="card-header">
+                <h6>Manage Products' Quantity</h6>
+            </div>
+            <div class="table-responsive">
+                <table class="table table-striped">
+                    <thead>
+                        <tr>
+
+                            <th style="width: 49px;">Sn.</th>
+                            <th>Product Name</th>
+                            <th>Price</th>
+                            <th style="width: 259px;">Quantity</th>
+                            <th style="width: 144px;">Total</th>
+                            <th style="width: 120px;">Delete</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr ng-repeat="SelectedProduct in SelectedProducts">
+                            <td>{{$index+1}}</td>
+                            <td>{{SelectedProduct.productName}}</td>
+                            <td>{{SelectedProduct.price}}</td>
+                            <td>
+                                <div class="input-group">
+                                    <div class="input-group-prepend">
+                                        <button class="btn btn-danger" ng-click="DecreaseQuantity(SelectedProduct)" type="button"><i class="fa fa-minus"></i></button>
+                                    </div>
+                                    <input class="form-control" type="number" min="1" ng-model="SelectedProduct.Quantity" name="Quantity" value="0">
+                                    <div class="input-group-append">
+                                        <button class="btn btn-primary" ng-click="IncreaseQuantity(SelectedProduct)" type="button"><i class="fa fa-plus"></i></button>
+                                    </div>
+                                </div>
+                            </td>
+                            <td class="text-center">{{SelectedProduct.Quantity * SelectedProduct.price}}</td>
+                            <td><button ng-click="DeleteItem($index)" class="btn btn-danger">Delete</button></td>
+
+                        </tr>
+                        <tr class="text-white bg-info">
+                            <td></td>
+                            <td></td>
+                            <td><strong>Total Bill Payable</strong></td>
+                            <td></td>
+                            <td></td>
+                            <td><strong>{{BillAmount}} /-</strong></td>
+                        </tr>
+                    </tbody>
+                    <tfoot>
+                        <tr>
+                            <td colspan="5"><button ng-click="MakeSale()" class="btn btn-primary" type="button">Place Order</button></td>
+
+                        </tr>
+                    </tfoot>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container">
+
+
+</div>
+

@@ -1,0 +1,125 @@
+﻿@using Microsoft.AspNetCore.Http;
+@{
+    ViewBag.Title = "Login";
+
+
+}
+<script src="~/assets/alertifyjs/alertify.min.js "></script>
+<link rel="stylesheet" href="~/assets/alertifyjs/css/alertify.min.css" />
+<link rel="stylesheet" href="`/assets/alertifyjs/css/themes/default.min.css" />
+
+<script src="~/assets/js/angular.min.js"></script>
+<script src="~/assets/js/angular-sanitize.min.js"></script>
+<script>
+        var app = angular.module('myApp', []);
+        app.controller('customersCtrl', function ($scope, $http, $location) {
+
+            $scope.Products = [];
+            var BaseUrl = "https://localhost:44393/";
+            console.log(BaseUrl);
+
+            $http.get(BaseUrl+"api/products").then((response) => {
+                $scope.Products = response.data;
+
+                for (var n = 0; n < $scope.Products.length; n++) { $scope.Products[n].SelectedQuantity = 1; }
+                console.log($scope.Products);
+            });
+            $scope.SetCategory = function (Keyword) {
+
+                $scope.Keyword = Keyword;
+                console.log(Keyword);
+            }
+             $scope.SelectedItems = [];
+
+            $scope.Select = function (Item) {
+
+                if (!$scope.SelectedItems.includes(Item))
+                    $scope.SelectedItems.push(Item);
+                else
+                    $scope.SelectedItems.splice($scope.SelectedItems.indexOf(Item), 1);
+
+                console.log($scope.SelectedItems);
+                localStorage.setItem('SelectedProducts', angular.toJson($scope.SelectedItems));
+            }
+
+
+            $scope.CheckOut = function ()
+            {
+                location.assign("/Products/PointOfSale");
+
+            }
+
+        });
+
+
+</script>
+
+<div ng-app="myApp" onload="Load()" ng-controller="customersCtrl">
+
+    <div class="container" style="margin-top: 20px;">
+        <div class="row">
+            <div class="col">
+                <div class="input-group">
+
+                    <input type="text" class="form-control" name="Keyword" ng-change="Filter()" ng-model="Keyword" placeholder="Search I.E Cars / Cards" />
+                    <div class="input-group-append">
+                        <button class="btn btn-info" type="button">Search</button>
+                    </div>
+
+                </div>
+            </div>
+            <div ng-show="SelectedItems.length>0" class="col-sm-2 col-md-2 col-lg-2 col-xl-2">
+
+                @if (Context.Session.GetString("UID") != null)
+                {
+                    <button ng-click="CheckOut()" class="btn btn-info" type="button">Check Out [{{SelectedItems.length}}]</button>
+                }
+                else
+                {
+
+                    <a class="btn btn-danger" asp-action="Login" asp-controller="Home">Login to CheckOut</a>
+                }
+            </div>
+
+        </div>
+    </div>
+    <hr />
+    <div class="container">
+        <div class="row">
+            <div ng-repeat="Product in Products | filter :Keyword" class="col-lg-6 col-xl-6" style="padding: 7px;">
+                <div class="card shadow-sm">
+                    <div class="card-body">
+                        <h4 class="card-title">{{Product.productName}}</h4>
+                        <div class="table-info">
+                            <table class="table">
+                                <tbody>
+                                    <tr>
+                                        <td rowspan="5" style="width: 153px;">
+                                            <img class="img-fluid border rounded shadow-sm" style="max-height:150px;max-width:150px;"
+                                                 ng-src="{{'https://localhost:44393/api/products/images/' + Product.pid}}" />
+                                        </td>
+                                        <td> Brand : <strong>{{Product.brand}}</strong></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Price : <strong>{{Product.price}} /-</strong></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Description : <strong>{{Product.description}}</strong></td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <button ng-click="Select(Product)" ng-show="!SelectedItems.includes(Product)" class="btn btn-success" type="button"><i class="fa fa-plus"></i>&nbsp;Add to Cart</button>
+                                            <button ng-click="Select(Product)" ng-show="SelectedItems.includes(Product)" class="btn btn-danger" type="button"><i class="fa fa-minus"></i>&nbsp;Remove Item</button>
+
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>

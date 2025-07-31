@@ -1,0 +1,338 @@
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\ThePlaycastle.exe
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\ThePlaycastle.deps.json
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\ThePlaycastle.runtimeconfig.json
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\ThePlaycastle.runtimeconfig.dev.json
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\ThePlaycastle.dll
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\ThePlaycastle.pdb
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\Toy_Jungle\Toy_Jungle\obj\Debug\netcoreapp3.1\ThePlaycastle.csproj.AssemblyReference.cache
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\Toy_Jungle\Toy_Jungle\obj\Debug\netcoreapp3.1\ThePlaycastle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\Toy_Jungle\Toy_Jungle\obj\Debug\netcoreapp3.1\ThePlaycastle.AssemblyInfoInputs.cache
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\Toy_Jungle\Toy_Jungle\obj\Debug\netcoreapp3.1\ThePlaycastle.AssemblyInfo.cs
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\Toy_Jungle\Toy_Jungle\obj\Debug\netcoreapp3.1\ThePlaycastle.csproj.CoreCompileInputs.cache
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\Toy_Jungle\Toy_Jungle\obj\Debug\netcoreapp3.1\ThePlaycastle.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\Toy_Jungle\Toy_Jungle\obj\Debug\netcoreapp3.1\staticwebassets\ThePlaycastle.StaticWebAssets.Manifest.cache
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\Toy_Jungle\Toy_Jungle\obj\Debug\netcoreapp3.1\ThePlaycastle.RazorTargetAssemblyInfo.cache
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\Toy_Jungle\Toy_Jungle\obj\Debug\netcoreapp3.1\ThePlaycastle.csproj.CopyComplete
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\Toy_Jungle\Toy_Jungle\obj\Debug\netcoreapp3.1\ThePlaycastle.dll
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\Toy_Jungle\Toy_Jungle\obj\Debug\netcoreapp3.1\ThePlaycastle.pdb
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\Toy_Jungle\Toy_Jungle\obj\Debug\netcoreapp3.1\ThePlaycastle.genruntimeconfig.cache
+D:\AZ\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\AZ\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\appsettings.json
+D:\AZ\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\ThePlayCastle.exe
+D:\AZ\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\ThePlayCastle.deps.json
+D:\AZ\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\ThePlayCastle.runtimeconfig.json
+D:\AZ\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\ThePlayCastle.runtimeconfig.dev.json
+D:\AZ\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\ThePlayCastle.dll
+D:\AZ\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\ThePlayCastle.pdb
+D:\AZ\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\AZ\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\AZ\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\AZ\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\AZ\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\AZ\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\AZ\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\AZ\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\AZ\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\AZ\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\AZ\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\AZ\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\AZ\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\AZ\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\AZ\Toy Jungle\Toy_Jungle\Toy_Jungle\obj\Debug\netcoreapp3.1\ThePlayCastle.csproj.AssemblyReference.cache
+D:\AZ\Toy Jungle\Toy_Jungle\Toy_Jungle\obj\Debug\netcoreapp3.1\ThePlayCastle.GeneratedMSBuildEditorConfig.editorconfig
+D:\AZ\Toy Jungle\Toy_Jungle\Toy_Jungle\obj\Debug\netcoreapp3.1\ThePlayCastle.AssemblyInfoInputs.cache
+D:\AZ\Toy Jungle\Toy_Jungle\Toy_Jungle\obj\Debug\netcoreapp3.1\ThePlayCastle.AssemblyInfo.cs
+D:\AZ\Toy Jungle\Toy_Jungle\Toy_Jungle\obj\Debug\netcoreapp3.1\ThePlayCastle.csproj.CoreCompileInputs.cache
+D:\AZ\Toy Jungle\Toy_Jungle\Toy_Jungle\obj\Debug\netcoreapp3.1\ThePlayCastle.MvcApplicationPartsAssemblyInfo.cache
+D:\AZ\Toy Jungle\Toy_Jungle\Toy_Jungle\obj\Debug\netcoreapp3.1\staticwebassets\ThePlayCastle.StaticWebAssets.Manifest.cache
+D:\AZ\Toy Jungle\Toy_Jungle\Toy_Jungle\obj\Debug\netcoreapp3.1\ThePlayCastle.RazorTargetAssemblyInfo.cache
+D:\AZ\Toy Jungle\Toy_Jungle\Toy_Jungle\obj\Debug\netcoreapp3.1\ThePlayCastle.csproj.CopyComplete
+D:\AZ\Toy Jungle\Toy_Jungle\Toy_Jungle\obj\Debug\netcoreapp3.1\ThePlayCastle.dll
+D:\AZ\Toy Jungle\Toy_Jungle\Toy_Jungle\obj\Debug\netcoreapp3.1\ThePlayCastle.pdb
+D:\AZ\Toy Jungle\Toy_Jungle\Toy_Jungle\obj\Debug\netcoreapp3.1\ThePlayCastle.genruntimeconfig.cache
+D:\AZ\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Azure.Core.dll
+D:\AZ\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+D:\AZ\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\AZ\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\AZ\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\AZ\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\AZ\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\AZ\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\AZ\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+D:\AZ\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\AZ\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\AZ\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\AZ\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+D:\AZ\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\AZ\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\AZ\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+D:\AZ\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+D:\AZ\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\AZ\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+D:\AZ\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+D:\AZ\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+D:\AZ\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\AZ\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\AZ\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\AZ\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AZ\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AZ\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AZ\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AZ\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+D:\AZ\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\AZ\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\AZ\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\AZ\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\AZ\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+D:\AZ\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+D:\AZ\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\AZ\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\AZ\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+D:\AZ\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\ThePlayCastle.exe
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\ThePlayCastle.deps.json
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\ThePlayCastle.runtimeconfig.json
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\ThePlayCastle.runtimeconfig.dev.json
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\ThePlayCastle.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\ThePlayCastle.pdb
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Toy Jungle\Toy_Jungle\Toy_Jungle\obj\Debug\netcoreapp3.1\ThePlayCastle.csproj.AssemblyReference.cache
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Toy Jungle\Toy_Jungle\Toy_Jungle\obj\Debug\netcoreapp3.1\ThePlayCastle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Toy Jungle\Toy_Jungle\Toy_Jungle\obj\Debug\netcoreapp3.1\ThePlayCastle.AssemblyInfoInputs.cache
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Toy Jungle\Toy_Jungle\Toy_Jungle\obj\Debug\netcoreapp3.1\ThePlayCastle.AssemblyInfo.cs
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Toy Jungle\Toy_Jungle\Toy_Jungle\obj\Debug\netcoreapp3.1\ThePlayCastle.csproj.CoreCompileInputs.cache
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Toy Jungle\Toy_Jungle\Toy_Jungle\obj\Debug\netcoreapp3.1\ThePlayCastle.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Toy Jungle\Toy_Jungle\Toy_Jungle\obj\Debug\netcoreapp3.1\staticwebassets\ThePlayCastle.StaticWebAssets.Manifest.cache
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Toy Jungle\Toy_Jungle\Toy_Jungle\obj\Debug\netcoreapp3.1\ThePlayCastle.RazorTargetAssemblyInfo.cache
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Toy Jungle\Toy_Jungle\Toy_Jungle\obj\Debug\netcoreapp3.1\ThePlayCastle.csproj.CopyComplete
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Toy Jungle\Toy_Jungle\Toy_Jungle\obj\Debug\netcoreapp3.1\ThePlayCastle.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Toy Jungle\Toy_Jungle\Toy_Jungle\obj\Debug\netcoreapp3.1\ThePlayCastle.pdb
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Toy Jungle\Toy_Jungle\Toy_Jungle\obj\Debug\netcoreapp3.1\ThePlayCastle.genruntimeconfig.cache
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\ThePlayCastle.exe
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\ThePlayCastle.deps.json
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\ThePlayCastle.runtimeconfig.json
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\ThePlayCastle.runtimeconfig.dev.json
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\ThePlayCastle.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\ThePlayCastle.pdb
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\obj\Debug\netcoreapp3.1\ThePlayCastle.csproj.AssemblyReference.cache
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\obj\Debug\netcoreapp3.1\ThePlayCastle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\obj\Debug\netcoreapp3.1\ThePlayCastle.AssemblyInfoInputs.cache
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\obj\Debug\netcoreapp3.1\ThePlayCastle.AssemblyInfo.cs
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\obj\Debug\netcoreapp3.1\ThePlayCastle.csproj.CoreCompileInputs.cache
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\obj\Debug\netcoreapp3.1\ThePlayCastle.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\obj\Debug\netcoreapp3.1\staticwebassets\ThePlayCastle.StaticWebAssets.Manifest.cache
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\obj\Debug\netcoreapp3.1\ThePlayCastle.RazorTargetAssemblyInfo.cache
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\obj\Debug\netcoreapp3.1\ThePlayCastle.csproj.CopyComplete
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\obj\Debug\netcoreapp3.1\ThePlayCastle.dll
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\obj\Debug\netcoreapp3.1\ThePlayCastle.pdb
+C:\Users\Sayyad's Asus\Desktop\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\obj\Debug\netcoreapp3.1\ThePlayCastle.genruntimeconfig.cache
+D:\Wipro\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Wipro\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Wipro\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\ThePlayCastle.exe
+D:\Wipro\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\ThePlayCastle.deps.json
+D:\Wipro\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\ThePlayCastle.runtimeconfig.json
+D:\Wipro\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\ThePlayCastle.runtimeconfig.dev.json
+D:\Wipro\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\ThePlayCastle.dll
+D:\Wipro\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\ThePlayCastle.pdb
+D:\Wipro\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Azure.Core.dll
+D:\Wipro\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+D:\Wipro\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Wipro\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Wipro\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Wipro\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Wipro\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Wipro\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Wipro\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Wipro\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Wipro\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Wipro\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Wipro\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Wipro\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Wipro\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Wipro\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Wipro\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Wipro\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+D:\Wipro\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\Wipro\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Wipro\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Wipro\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Wipro\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\Wipro\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+D:\Wipro\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Wipro\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Wipro\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\Wipro\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+D:\Wipro\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+D:\Wipro\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Wipro\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\Wipro\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+D:\Wipro\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+D:\Wipro\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+D:\Wipro\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\Wipro\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Wipro\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Wipro\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Wipro\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Wipro\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Wipro\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Wipro\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+D:\Wipro\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Wipro\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Wipro\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Wipro\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Wipro\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+D:\Wipro\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+D:\Wipro\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Wipro\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\Wipro\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\Wipro\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+D:\Wipro\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Wipro\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\obj\Debug\netcoreapp3.1\ThePlayCastle.csproj.AssemblyReference.cache
+D:\Wipro\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\obj\Debug\netcoreapp3.1\ThePlayCastle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wipro\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\obj\Debug\netcoreapp3.1\ThePlayCastle.AssemblyInfoInputs.cache
+D:\Wipro\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\obj\Debug\netcoreapp3.1\ThePlayCastle.AssemblyInfo.cs
+D:\Wipro\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\obj\Debug\netcoreapp3.1\ThePlayCastle.csproj.CoreCompileInputs.cache
+D:\Wipro\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\obj\Debug\netcoreapp3.1\ThePlayCastle.MvcApplicationPartsAssemblyInfo.cache
+D:\Wipro\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\obj\Debug\netcoreapp3.1\staticwebassets\ThePlayCastle.StaticWebAssets.Manifest.cache
+D:\Wipro\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\obj\Debug\netcoreapp3.1\ThePlayCastle.RazorTargetAssemblyInfo.cache
+D:\Wipro\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\obj\Debug\netcoreapp3.1\ThePlayCastle.dll
+D:\Wipro\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\obj\Debug\netcoreapp3.1\ThePlayCastle.pdb
+D:\Wipro\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\obj\Debug\netcoreapp3.1\ThePlayCastle.genruntimeconfig.cache
+D:\Wipro\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\obj\Debug\netcoreapp3.1\staticwebassets\ThePlayCastle.StaticWebAssets.Pack.cache
+D:\Wipro\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.ThePlayCastle.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Wipro\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.ThePlayCastle.props
+D:\Wipro\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.ThePlayCastle.props
+D:\Wipro\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.ThePlayCastle.props
+D:\Wipro\Capstone Project\Project\Toy Jungle\Toy_Jungle\Toy_Jungle\obj\Debug\netcoreapp3.1\ThePlayC.4124A8C8.Up2Date

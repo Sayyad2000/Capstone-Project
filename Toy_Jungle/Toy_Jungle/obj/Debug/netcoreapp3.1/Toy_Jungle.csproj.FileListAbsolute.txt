@@ -1,0 +1,85 @@
+F:\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Toy_Jungle.exe
+F:\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Toy_Jungle.deps.json
+F:\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Toy_Jungle.runtimeconfig.json
+F:\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Toy_Jungle.runtimeconfig.dev.json
+F:\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Toy_Jungle.dll
+F:\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Toy_Jungle.pdb
+F:\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+F:\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Toy Jungle\Toy_Jungle\Toy_Jungle\obj\Debug\netcoreapp3.1\Toy_Jungle.csproj.AssemblyReference.cache
+F:\Toy Jungle\Toy_Jungle\Toy_Jungle\obj\Debug\netcoreapp3.1\Toy_Jungle.GeneratedMSBuildEditorConfig.editorconfig
+F:\Toy Jungle\Toy_Jungle\Toy_Jungle\obj\Debug\netcoreapp3.1\Toy_Jungle.AssemblyInfoInputs.cache
+F:\Toy Jungle\Toy_Jungle\Toy_Jungle\obj\Debug\netcoreapp3.1\Toy_Jungle.AssemblyInfo.cs
+F:\Toy Jungle\Toy_Jungle\Toy_Jungle\obj\Debug\netcoreapp3.1\Toy_Jungle.csproj.CoreCompileInputs.cache
+F:\Toy Jungle\Toy_Jungle\Toy_Jungle\obj\Debug\netcoreapp3.1\Toy_Jungle.MvcApplicationPartsAssemblyInfo.cache
+F:\Toy Jungle\Toy_Jungle\Toy_Jungle\obj\Debug\netcoreapp3.1\staticwebassets\Toy_Jungle.StaticWebAssets.Manifest.cache
+F:\Toy Jungle\Toy_Jungle\Toy_Jungle\obj\Debug\netcoreapp3.1\staticwebassets\Toy_Jungle.StaticWebAssets.xml
+F:\Toy Jungle\Toy_Jungle\Toy_Jungle\obj\Debug\netcoreapp3.1\scopedcss\bundle\Toy_Jungle.styles.css
+F:\Toy Jungle\Toy_Jungle\Toy_Jungle\obj\Debug\netcoreapp3.1\Toy_Jungle.RazorTargetAssemblyInfo.cache
+F:\Toy Jungle\Toy_Jungle\Toy_Jungle\obj\Debug\netcoreapp3.1\Toy_Jungle.csproj.CopyComplete
+F:\Toy Jungle\Toy_Jungle\Toy_Jungle\obj\Debug\netcoreapp3.1\Toy_Jungle.dll
+F:\Toy Jungle\Toy_Jungle\Toy_Jungle\obj\Debug\netcoreapp3.1\Toy_Jungle.pdb
+F:\Toy Jungle\Toy_Jungle\Toy_Jungle\obj\Debug\netcoreapp3.1\Toy_Jungle.genruntimeconfig.cache
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Toy_Jungle.StaticWebAssets.xml
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Toy_Jungle.exe
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Toy_Jungle.deps.json
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Toy_Jungle.runtimeconfig.json
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Toy_Jungle.runtimeconfig.dev.json
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Toy_Jungle.dll
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Toy_Jungle.pdb
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\Toy_Jungle\Toy_Jungle\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\Toy_Jungle\Toy_Jungle\obj\Debug\netcoreapp3.1\Toy_Jungle.csproj.AssemblyReference.cache
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\Toy_Jungle\Toy_Jungle\obj\Debug\netcoreapp3.1\Toy_Jungle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\Toy_Jungle\Toy_Jungle\obj\Debug\netcoreapp3.1\Toy_Jungle.AssemblyInfoInputs.cache
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\Toy_Jungle\Toy_Jungle\obj\Debug\netcoreapp3.1\Toy_Jungle.AssemblyInfo.cs
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\Toy_Jungle\Toy_Jungle\obj\Debug\netcoreapp3.1\Toy_Jungle.csproj.CoreCompileInputs.cache
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\Toy_Jungle\Toy_Jungle\obj\Debug\netcoreapp3.1\Toy_Jungle.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\Toy_Jungle\Toy_Jungle\obj\Debug\netcoreapp3.1\staticwebassets\Toy_Jungle.StaticWebAssets.Manifest.cache
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\Toy_Jungle\Toy_Jungle\obj\Debug\netcoreapp3.1\Toy_Jungle.RazorTargetAssemblyInfo.cache
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\Toy_Jungle\Toy_Jungle\obj\Debug\netcoreapp3.1\Toy_Jungle.csproj.CopyComplete
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\Toy_Jungle\Toy_Jungle\obj\Debug\netcoreapp3.1\Toy_Jungle.dll
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\Toy_Jungle\Toy_Jungle\obj\Debug\netcoreapp3.1\Toy_Jungle.pdb
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\Toy_Jungle\Toy_Jungle\obj\Debug\netcoreapp3.1\Toy_Jungle.genruntimeconfig.cache

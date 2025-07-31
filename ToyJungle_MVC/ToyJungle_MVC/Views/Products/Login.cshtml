@@ -1,0 +1,46 @@
+﻿
+@{
+    ViewBag.Title = "Login";
+
+
+}
+<script src="~/assets/alertifyjs/alertify.min.js "></script>
+<link rel="stylesheet" href="~/assets/alertifyjs/css/alertify.min.css" />
+<link rel="stylesheet" href="`/assets/alertifyjs/css/themes/default.min.css" />
+
+<script src="~/assets/js/angular.min.js"></script>
+<script src="~/assets/js/angular-sanitize.min.js"></script>
+<script>
+        var app = angular.module('myApp', []);
+        app.controller('customersCtrl', function ($scope, $http, $location) {
+            $scope.Name = "Rishi";
+
+
+
+        });
+
+
+</script>
+
+<div ng-app="myApp" onload="Load()" ng-controller="customersCtrl">
+
+</div>
+<div class="container">
+    <div class="login-card">
+        <img class="profile-img-card" src="~/assets/img/KidsZone.jpg" />
+        <p class="profile-name-card"></p>
+        <form class="form-signin" method="post" action="/Home/Login">
+            <span class="reauth-email"></span>
+            @if (ViewBag.Error != null)
+            {
+                <div role="alert" class="alert alert-danger"><span><strong>Error !!!</strong> Invalid Credentials.</span></div>
+            }
+            <input class="form-control" name="Email" type="email" value="@ViewBag.Email" required placeholder="Email address" autofocus />
+            <input class="form-control" name="PWD" type="password" value="@ViewBag.PWD" required placeholder="Password" /><button class="btn btn-primary btn-block btn-lg btn-signin"
+                                                                                                                                  type="submit">
+                Sign in
+            </button>
+        </form>
+    </div>
+
+</div>

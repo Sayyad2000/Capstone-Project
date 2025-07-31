@@ -1,0 +1,95 @@
+F:\Toy Jungle\ToyJungle_MVC\ToyJungle_MVC\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Toy Jungle\ToyJungle_MVC\ToyJungle_MVC\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Toy Jungle\ToyJungle_MVC\ToyJungle_MVC\bin\Debug\netcoreapp3.1\ToyJungle_MVC.exe
+F:\Toy Jungle\ToyJungle_MVC\ToyJungle_MVC\bin\Debug\netcoreapp3.1\ToyJungle_MVC.deps.json
+F:\Toy Jungle\ToyJungle_MVC\ToyJungle_MVC\bin\Debug\netcoreapp3.1\ToyJungle_MVC.runtimeconfig.json
+F:\Toy Jungle\ToyJungle_MVC\ToyJungle_MVC\bin\Debug\netcoreapp3.1\ToyJungle_MVC.runtimeconfig.dev.json
+F:\Toy Jungle\ToyJungle_MVC\ToyJungle_MVC\bin\Debug\netcoreapp3.1\ToyJungle_MVC.dll
+F:\Toy Jungle\ToyJungle_MVC\ToyJungle_MVC\bin\Debug\netcoreapp3.1\ToyJungle_MVC.pdb
+F:\Toy Jungle\ToyJungle_MVC\ToyJungle_MVC\bin\Debug\netcoreapp3.1\ToyJungle_MVC.Views.dll
+F:\Toy Jungle\ToyJungle_MVC\ToyJungle_MVC\bin\Debug\netcoreapp3.1\ToyJungle_MVC.Views.pdb
+F:\Toy Jungle\ToyJungle_MVC\ToyJungle_MVC\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\Toy Jungle\ToyJungle_MVC\ToyJungle_MVC\obj\Debug\netcoreapp3.1\ToyJungle_MVC.csproj.AssemblyReference.cache
+F:\Toy Jungle\ToyJungle_MVC\ToyJungle_MVC\obj\Debug\netcoreapp3.1\ToyJungle_MVC.GeneratedMSBuildEditorConfig.editorconfig
+F:\Toy Jungle\ToyJungle_MVC\ToyJungle_MVC\obj\Debug\netcoreapp3.1\ToyJungle_MVC.AssemblyInfoInputs.cache
+F:\Toy Jungle\ToyJungle_MVC\ToyJungle_MVC\obj\Debug\netcoreapp3.1\ToyJungle_MVC.AssemblyInfo.cs
+F:\Toy Jungle\ToyJungle_MVC\ToyJungle_MVC\obj\Debug\netcoreapp3.1\ToyJungle_MVC.csproj.CoreCompileInputs.cache
+F:\Toy Jungle\ToyJungle_MVC\ToyJungle_MVC\obj\Debug\netcoreapp3.1\ToyJungle_MVC.MvcApplicationPartsAssemblyInfo.cache
+F:\Toy Jungle\ToyJungle_MVC\ToyJungle_MVC\obj\Debug\netcoreapp3.1\ToyJungle_MVC.RazorAssemblyInfo.cache
+F:\Toy Jungle\ToyJungle_MVC\ToyJungle_MVC\obj\Debug\netcoreapp3.1\ToyJungle_MVC.RazorAssemblyInfo.cs
+F:\Toy Jungle\ToyJungle_MVC\ToyJungle_MVC\obj\Debug\netcoreapp3.1\staticwebassets\ToyJungle_MVC.StaticWebAssets.Manifest.cache
+F:\Toy Jungle\ToyJungle_MVC\ToyJungle_MVC\obj\Debug\netcoreapp3.1\staticwebassets\ToyJungle_MVC.StaticWebAssets.xml
+F:\Toy Jungle\ToyJungle_MVC\ToyJungle_MVC\obj\Debug\netcoreapp3.1\scopedcss\bundle\ToyJungle_MVC.styles.css
+F:\Toy Jungle\ToyJungle_MVC\ToyJungle_MVC\obj\Debug\netcoreapp3.1\ToyJungle_MVC.TagHelpers.input.cache
+F:\Toy Jungle\ToyJungle_MVC\ToyJungle_MVC\obj\Debug\netcoreapp3.1\ToyJungle_MVC.TagHelpers.output.cache
+F:\Toy Jungle\ToyJungle_MVC\ToyJungle_MVC\obj\Debug\netcoreapp3.1\ToyJungle_MVC.RazorCoreGenerate.cache
+F:\Toy Jungle\ToyJungle_MVC\ToyJungle_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Customers.cshtml.g.cs
+F:\Toy Jungle\ToyJungle_MVC\ToyJungle_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\Toy Jungle\ToyJungle_MVC\ToyJungle_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+F:\Toy Jungle\ToyJungle_MVC\ToyJungle_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\Toy Jungle\ToyJungle_MVC\ToyJungle_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Search.cshtml.g.cs
+F:\Toy Jungle\ToyJungle_MVC\ToyJungle_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\SignUp.cshtml.g.cs
+F:\Toy Jungle\ToyJungle_MVC\ToyJungle_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Orders\PurchaseRecords.cshtml.g.cs
+F:\Toy Jungle\ToyJungle_MVC\ToyJungle_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Orders\SaleRecords.cshtml.g.cs
+F:\Toy Jungle\ToyJungle_MVC\ToyJungle_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Products\Login.cshtml.g.cs
+F:\Toy Jungle\ToyJungle_MVC\ToyJungle_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Products\PointOfSale.cshtml.g.cs
+F:\Toy Jungle\ToyJungle_MVC\ToyJungle_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Products\Products.cshtml.g.cs
+F:\Toy Jungle\ToyJungle_MVC\ToyJungle_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\Toy Jungle\ToyJungle_MVC\ToyJungle_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\Toy Jungle\ToyJungle_MVC\ToyJungle_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\Toy Jungle\ToyJungle_MVC\ToyJungle_MVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\Toy Jungle\ToyJungle_MVC\ToyJungle_MVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\Toy Jungle\ToyJungle_MVC\ToyJungle_MVC\obj\Debug\netcoreapp3.1\ToyJungle_MVC.RazorTargetAssemblyInfo.cache
+F:\Toy Jungle\ToyJungle_MVC\ToyJungle_MVC\obj\Debug\netcoreapp3.1\ToyJungle_MVC.RazorTargetAssemblyInfo.cs
+F:\Toy Jungle\ToyJungle_MVC\ToyJungle_MVC\obj\Debug\netcoreapp3.1\ToyJungle_MVC.Views.pdb
+F:\Toy Jungle\ToyJungle_MVC\ToyJungle_MVC\obj\Debug\netcoreapp3.1\ToyJungle_MVC.csproj.CopyComplete
+F:\Toy Jungle\ToyJungle_MVC\ToyJungle_MVC\obj\Debug\netcoreapp3.1\ToyJungle_MVC.dll
+F:\Toy Jungle\ToyJungle_MVC\ToyJungle_MVC\obj\Debug\netcoreapp3.1\ToyJungle_MVC.pdb
+F:\Toy Jungle\ToyJungle_MVC\ToyJungle_MVC\obj\Debug\netcoreapp3.1\ToyJungle_MVC.genruntimeconfig.cache
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\ToyJungle_MVC\ToyJungle_MVC\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\ToyJungle_MVC\ToyJungle_MVC\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\ToyJungle_MVC\ToyJungle_MVC\bin\Debug\netcoreapp3.1\ToyJungle_MVC.StaticWebAssets.xml
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\ToyJungle_MVC\ToyJungle_MVC\bin\Debug\netcoreapp3.1\ToyJungle_MVC.exe
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\ToyJungle_MVC\ToyJungle_MVC\bin\Debug\netcoreapp3.1\ToyJungle_MVC.deps.json
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\ToyJungle_MVC\ToyJungle_MVC\bin\Debug\netcoreapp3.1\ToyJungle_MVC.runtimeconfig.json
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\ToyJungle_MVC\ToyJungle_MVC\bin\Debug\netcoreapp3.1\ToyJungle_MVC.runtimeconfig.dev.json
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\ToyJungle_MVC\ToyJungle_MVC\bin\Debug\netcoreapp3.1\ToyJungle_MVC.dll
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\ToyJungle_MVC\ToyJungle_MVC\bin\Debug\netcoreapp3.1\ToyJungle_MVC.pdb
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\ToyJungle_MVC\ToyJungle_MVC\bin\Debug\netcoreapp3.1\ToyJungle_MVC.Views.dll
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\ToyJungle_MVC\ToyJungle_MVC\bin\Debug\netcoreapp3.1\ToyJungle_MVC.Views.pdb
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\ToyJungle_MVC\ToyJungle_MVC\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\ToyJungle_MVC\ToyJungle_MVC\obj\Debug\netcoreapp3.1\ToyJungle_MVC.csproj.AssemblyReference.cache
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\ToyJungle_MVC\ToyJungle_MVC\obj\Debug\netcoreapp3.1\ToyJungle_MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\ToyJungle_MVC\ToyJungle_MVC\obj\Debug\netcoreapp3.1\ToyJungle_MVC.AssemblyInfoInputs.cache
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\ToyJungle_MVC\ToyJungle_MVC\obj\Debug\netcoreapp3.1\ToyJungle_MVC.AssemblyInfo.cs
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\ToyJungle_MVC\ToyJungle_MVC\obj\Debug\netcoreapp3.1\ToyJungle_MVC.csproj.CoreCompileInputs.cache
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\ToyJungle_MVC\ToyJungle_MVC\obj\Debug\netcoreapp3.1\ToyJungle_MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\ToyJungle_MVC\ToyJungle_MVC\obj\Debug\netcoreapp3.1\ToyJungle_MVC.RazorAssemblyInfo.cache
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\ToyJungle_MVC\ToyJungle_MVC\obj\Debug\netcoreapp3.1\ToyJungle_MVC.RazorAssemblyInfo.cs
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\ToyJungle_MVC\ToyJungle_MVC\obj\Debug\netcoreapp3.1\staticwebassets\ToyJungle_MVC.StaticWebAssets.Manifest.cache
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\ToyJungle_MVC\ToyJungle_MVC\obj\Debug\netcoreapp3.1\ToyJungle_MVC.TagHelpers.input.cache
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\ToyJungle_MVC\ToyJungle_MVC\obj\Debug\netcoreapp3.1\ToyJungle_MVC.TagHelpers.output.cache
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\ToyJungle_MVC\ToyJungle_MVC\obj\Debug\netcoreapp3.1\ToyJungle_MVC.RazorCoreGenerate.cache
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\ToyJungle_MVC\ToyJungle_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Customers.cshtml.g.cs
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\ToyJungle_MVC\ToyJungle_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\ToyJungle_MVC\ToyJungle_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\ToyJungle_MVC\ToyJungle_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\ToyJungle_MVC\ToyJungle_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Search.cshtml.g.cs
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\ToyJungle_MVC\ToyJungle_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\SignUp.cshtml.g.cs
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\ToyJungle_MVC\ToyJungle_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Orders\PurchaseRecords.cshtml.g.cs
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\ToyJungle_MVC\ToyJungle_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Orders\SaleRecords.cshtml.g.cs
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\ToyJungle_MVC\ToyJungle_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Products\Login.cshtml.g.cs
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\ToyJungle_MVC\ToyJungle_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Products\PointOfSale.cshtml.g.cs
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\ToyJungle_MVC\ToyJungle_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Products\Products.cshtml.g.cs
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\ToyJungle_MVC\ToyJungle_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\ToyJungle_MVC\ToyJungle_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\ToyJungle_MVC\ToyJungle_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\ToyJungle_MVC\ToyJungle_MVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\ToyJungle_MVC\ToyJungle_MVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\ToyJungle_MVC\ToyJungle_MVC\obj\Debug\netcoreapp3.1\ToyJungle_MVC.RazorTargetAssemblyInfo.cache
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\ToyJungle_MVC\ToyJungle_MVC\obj\Debug\netcoreapp3.1\ToyJungle_MVC.RazorTargetAssemblyInfo.cs
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\ToyJungle_MVC\ToyJungle_MVC\obj\Debug\netcoreapp3.1\ToyJungle_MVC.Views.pdb
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\ToyJungle_MVC\ToyJungle_MVC\obj\Debug\netcoreapp3.1\ToyJungle_MVC.csproj.CopyComplete
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\ToyJungle_MVC\ToyJungle_MVC\obj\Debug\netcoreapp3.1\ToyJungle_MVC.dll
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\ToyJungle_MVC\ToyJungle_MVC\obj\Debug\netcoreapp3.1\ToyJungle_MVC.pdb
+C:\Users\Bhanu Shankar\OneDrive\Desktop\Toy Jungle\ToyJungle_MVC\ToyJungle_MVC\obj\Debug\netcoreapp3.1\ToyJungle_MVC.genruntimeconfig.cache
